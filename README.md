@@ -5,8 +5,6 @@
 
 <div align="center">
 
-### 💎 Contact
-
 ### 💎 Skills
 
 Web  
