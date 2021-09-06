@@ -5,6 +5,11 @@
 
 <div align="center">
 
+### 💎 Contact
+  
+![mail](https://img.shields.io/badge/-mail-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sbr@kakao.com)
+![blog](https://img.shields.io/badge/-blog-yello?style=flat-square&logo=Blogger&link=https://marobiana.tistory.com)
+  
 ### 💎 Skills
 
 Web  
