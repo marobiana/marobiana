@@ -1,46 +1,49 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter)](https://github.com/marobiana)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/marobiana)
 ![](https://img.shields.io/github/followers/marobiana?style=social)
 
-## Back-end Development Instructor 😄
 
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=200&section=header&text=Back-end%20Development%20Instructor&fontSize=40)  
 
-### 💎 Contact 💎
-  
-[![mail](https://img.shields.io/badge/-mail-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sbr@kakao.com)](mailto:sbr@kakao.com)
-[![blog](https://img.shields.io/badge/-blog-yello?style=flat-square&logo=Blogger&link=https://marobiana.tistory.com)](https://marobiana.tistory.com)
-  
-### 💎 Skills 💎
+ 
 
-Web  
+### `💚 Web 💚`  
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
+<img src="https://img.shields.io/badge/JavaScript-468010?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /> 
+<img src="https://img.shields.io/badge/HTML5-0A6A05?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/CSS-BB9F00?&style=for-the-badge&logo=css3&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Bootstrap-FA6C0E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/jQuery-D17001?style=for-the-badge&logo=jquery&logoColor=white" height="25" />  
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-F9FCF3?style=for-the-badge&logo=spring-boot" height="25" />
+<img src="https://img.shields.io/badge/MySQL-7DA205?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Git-D6A801?style=for-the-badge&logo=git&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Amazon_AWS-F4A191?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" />
+<br>
+   
   
-![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### `💙 Language 💙`  
+   
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" />
+<br>
+   
+### `💜 Big Data 💜`   
+    
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/scikit_learn-A97EBD?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25" />
+<br>
+ 　
 
-Languages  
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Marobiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marobiana&show_icons=true&theme=dracula)
+[![Marobiana's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marobiana&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula)](https://github.com/marobiana)   
 
-Big Data  
-  
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Marobiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marobiana&show_icons=true&theme=dracula)  
-  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5AACD7,100:FA6588&height=150&section=footer)
 </div>
 
 
