@@ -40,9 +40,6 @@
 <br>
  　
 
-![Marobiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marobiana&show_icons=true&theme=dracula)
-[![Marobiana's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marobiana&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula)](https://github.com/marobiana)   
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5AACD7,100:FA6588&height=150&section=footer)
 </div>
 
